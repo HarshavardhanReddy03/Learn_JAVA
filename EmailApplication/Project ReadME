@@ -1,0 +1,7 @@
+#Project Description
+
+The Email Generator is a lightweight Java tool designed to simplify the process of generating and validating email addresses for various applications.
+
+This project is useful for scenarios such as creating test accounts, generating datasets, or conducting email verification tests.
+
+The main objective of building this is to enhance your learning of OOPS concepts and have hands-on experience with the usage of concepts such as encapulation, access specifiers, and many more.
